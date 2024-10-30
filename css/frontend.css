@@ -1,0 +1,10 @@
+div.hello_event_debug {border:1px solid red; padding: 0.5em; color: red;}
+
+
+/* Presentation of custom fields */
+table.hello-event-venue tr {margin: 0px; padding:0px;}
+table.hello-event-venue tr.ics td {padding-top:1rem;}
+table.hello-event-venue th {margin: 0px; padding:0px;}
+table.hello-event-venue td {margin: 0px; padding:0px;}
+
+

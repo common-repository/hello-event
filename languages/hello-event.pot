@@ -1,0 +1,752 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Event\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-10 07:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:397
+msgid "A plugin for managing events and sell tickets with Woocommerce"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:240
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:241
+msgid "Add New"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1802
+msgid "Add to Calendar"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:274
+msgid "Add-to-calendar button"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:294
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:559
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:300
+msgid "Advice"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:565
+msgid ""
+"Advice to participants, for example related to parking or public "
+"transportation"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:245
+msgid "All"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:463
+msgid ""
+"Any items not selected can always be inserted into the content parts of "
+"events and tickets using shortcodes."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:445
+msgid ""
+"As of July 2018 you will be able to do 28500 requests per month free of "
+"charge,"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1691
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1712
+msgid "at"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:82
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:455
+msgid "Auto inserted content"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:207
+msgid "Book now"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:446
+msgid ""
+"but please notice that the pricing plans are quite complex and you should "
+"consult Google's information about the details."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:60
+msgid "Calendar"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:182
+msgid "Choose behaviour"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:462
+msgid ""
+"Choose what should be AUTOMAICALLY inserted into the content of events and "
+"tickets."
+msgstr ""
+
+#. Author of the plugin
+msgid "Christer Fernstrom"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:75
+msgid "Custom event page"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1192
+msgid "Date"
+msgstr ""
+
+#. Section slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:39
+msgid "Date and Time formats"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:99
+msgid "Date format"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:278
+msgid "Dates and time"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:169
+msgid "Debug"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:53
+msgid "Debugging"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:428
+msgid "Default is \"Event\" in singular and \"Events\" in plural."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:514
+msgid "don't show"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:476
+msgid "Earlier events"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:243
+msgid "Edit"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:587
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:637
+msgid "Edit ticket"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:609
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2009
+msgid "End"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:510
+msgid "End date"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:247
+msgid "End date and time of event"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2145
+msgid "End date is earlier than start date"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:520
+msgid "End time"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:766
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:775
+msgid "Event ticket"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:690
+msgid "Event:"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:591
+msgid "Fill in the checkbox above to start sell tickets"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:673
+msgid "Fill in the slug of the custom event page, or leave blank for default."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1194
+msgid "First name"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1274
+msgid "Friday"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:124
+msgid "Full day"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:576
+msgid "generated by the shortcodes in case of problems"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:590
+msgid "Go to the event page"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:949
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1523
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:376
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:420
+msgid "Goto the event"
+msgstr ""
+
+#. Name of the plugin
+msgid "Hello Event"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:426
+msgid ""
+"Here you can change the name for the event custom type that you see on the "
+"admin pages."
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:351
+msgid "Hide ticket from shop unless the event is in the future"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.tekomatik.com/about"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.tekomatik.com/plugins/hello-event"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:455
+msgid ""
+"If no custom page is defined, events will be displayed using the standard "
+"page template of the theme, and in the settings below"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:524
+msgid "If shown it will be localized into the selected language of the site"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:674
+msgid "If the page does not exist the default will be used."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:471
+msgid ""
+"if the ticket title should be automatically updated to the event title when "
+"the event is saved."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:472
+msgid ""
+"if tickets to past events and tickets to events that have been deleted "
+"should be set to hidden to prevent them from being shown in the shop"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:447
+msgid ""
+"If you choose to use Google Maps, no maps will be displayed on the event "
+"pages until you have obtained the key and registered it here."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:602
+msgid ""
+"If you want to use Bootstrap modals your theme must be built with Bootstrap"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:501
+msgid "Internally all dates are stored in the ISO-format (YYYY-mm-dd)."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:454
+msgid "It is possible to create a custom page used to display the events."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:442
+msgid ""
+"It is possible to use either Google Maps or OpenStreetMap to display the "
+"locations of events."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:89
+msgid "Keep tickets in sync with events"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1194
+msgid "Last name"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:430
+msgid "Leave blank to keep the defaults."
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:313
+msgid "Link from event to ticket"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:325
+msgid "Link from ticket to event"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:286
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1992
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2015
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:48
+msgid "Location"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:545
+msgid "Location address"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:287
+msgid "Location map"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:534
+msgid "Location Name"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:260
+msgid "Location of event"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage events and sell tickets with WooCommerce as easy as Hello World"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:67
+msgid "Maps"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:207
+msgid "Maps API Key"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1270
+msgid "Monday"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:155
+msgid "Name of event (plural)"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:141
+msgid "Name of event (singular)"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:46
+msgid "Naming events"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:242
+msgid "New"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2141
+msgid "No end date given. The date has been set to today."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:696
+msgid "No event corresponds to the event id in the URL"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:700
+msgid "No event id in the URL"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2129
+msgid "No event points to the ticket"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:61
+msgid "No location given"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2137
+msgid "No start date given. The date has been set to today."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:248
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:249
+msgid "Nono"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:571
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:621
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:691
+msgid "off"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:567
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:617
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:687
+msgid "on"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:443
+msgid ""
+"OpenStreetMap is a community-based free service, which is sufficient in most "
+"cases."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1193
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1208
+msgid "Order"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1195
+msgid "Paid"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2034
+msgid "Participate"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:464
+msgid ""
+"Please notice that a link from an event to a ticket will only appear when "
+"the sale of tickets for the event is active."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:603
+msgid ""
+"Please notice that modals may not work properly with older versions of "
+"Bootstrap"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:448
+msgid ""
+"Please notice that the maps presented by either of the map services contain "
+"links with credits and contact information to the service provider."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1515
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1539
+msgid "Product is orphaned"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1195
+msgid "Quantity"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:611
+msgid "Sales"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1275
+msgid "Saturday"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:412
+msgid "Save Settings"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:246
+msgid "Search"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:57
+msgid "See in Open Street Map"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-calendar.php:85
+msgid "See more"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:195
+msgid "Select map service"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:500
+msgid "Select the dateformat used in datepickers and displays."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:437
+msgid ""
+"Select what should happen when a user clicks on an event in the calendar"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:574
+msgid "Sell tickets in the shop"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:585
+msgid "Shop link"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1512
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1536
+msgid "Shortcode can only be used for products of the Hello Event category"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1231
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1434
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1462
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1560
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1574
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1596
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1618
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1634
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1649
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1665
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1694
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1715
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1735
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1750
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1765
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1780
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1795
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1816
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1832
+msgid "Shortcode can only be used when displaying events"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:523
+msgid "Should the weekday name (eg. Monday) be shown in front of the date"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:518
+msgid "show"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:594
+msgid "Show event summary in a Bootstrap modal"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:598
+msgid "Show event summary in a jQuery UI modal"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:221
+msgid "Slug for custom event page"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:608
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1991
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2004
+msgid "Start"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:492
+msgid "Start date"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:234
+msgid "Start date and time of event"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:501
+msgid "Start time"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1269
+msgid "Sunday"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:539
+msgid ""
+"The (optional) location name can for example be the name of a concert hall"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2163
+msgid "The event was saved but there are error(s)"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1403
+msgid ""
+"The link from the event does not point to a ticket in Woocommerce. Save the "
+"event again!"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:550
+msgid ""
+"The location address should be detailed enough to geo-localize the place"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2161
+msgid "The product was saved but there are error(s)"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1405
+msgid ""
+"The ticket exists in Woocommerce, and is published, but you need to set its "
+"price"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1404
+msgid "The ticket exists in Woocommerce, but you need to set it as published"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1234
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1400
+msgid "The Woocommerce plugin is not activated"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:592
+msgid ""
+"then after saving the event a new link will appear to allow you to set the "
+"price and quantity of tickets"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2133
+msgid "There is already a ticket for the event in the shop"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:444
+msgid "There is no event to show"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1402
+msgid "There is no link from the event to a ticket. Save the event again!"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:659
+msgid "this page"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1273
+msgid "Thursday"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1189
+msgid "Ticket sales status"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:302
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:610
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:233
+msgid "Tickets"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:590
+msgid "Tickets are not yet available in the shop."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1227
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1431
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1459
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2024
+msgid "Tickets not fully configured"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:648
+msgid "Tickets sold"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:778
+msgid "Tickets to Events"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1421
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1442
+msgid "Tickets to participate are available in our shop"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:127
+msgid "Time format"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:657
+msgid "To obtain the API Key and read Google's explanation go to"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:596
+msgid "To sell tickets Woocommerce needs to be installed and actived"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1217
+msgid "Total"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1271
+msgid "Tuesday"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:76
+msgid "Undefined map services"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2149
+msgid "Unknown error"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:477
+msgid "Upcoming events"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:339
+msgid "Update the ticket title when the event title is changed"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:244
+msgid "View"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1272
+msgid "Wednesday"
+msgstr ""
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:113
+msgid "Weekday"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:575
+msgid "When switched on admins and editors will see debug information"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:456
+msgid ""
+"When using a custom event page you must use shortcodes to show the event "
+"information."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:444
+msgid ""
+"With Google Maps comes many additional features (street view, driving "
+"directions, ...), but in order to use Google maps you need to obtain a "
+"Google Maps API Key."
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:455
+msgid "you can decide what information should be automatically inserted"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:96
+msgid ""
+"You need to register your Google Maps API Key before the map can be shown"
+msgstr ""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1401
+msgid "You need to set the check box to sell tickets in the event!"
+msgstr ""

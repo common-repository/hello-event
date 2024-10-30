@@ -1,0 +1,773 @@
+# Translation of Plugins - Hello Event - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Hello Event - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-27 15:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Hello Event - Development (trunk)\n"
+"Language-Team: Svenska\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-16 08:16+0000\n"
+"Last-Translator: \n"
+"X-Loco-Version: 2.6.10; wp-6.5.4"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:395
+msgid "A plugin for managing events and sell tickets with Woocommerce"
+msgstr ""
+"Ett tillägg för att hantera evenemang och sälja biljetter med hjälp av "
+"Woocommerce"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:247
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:248
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1688
+msgid "Add to Calendar"
+msgstr "Lägg till i kalender"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:286
+msgid "Add-to-calendar button"
+msgstr "Lägg-till-i-kalender-knapp"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:252
+msgid "All"
+msgstr "Alla"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:461
+msgid ""
+"Any items not selected can always be inserted into the content parts of "
+"events and tickets using shortcodes."
+msgstr ""
+"De element som inte valts här kan alltid infogas i innehållet för evenemang "
+"och biljetter med hjälp av shortcodes."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:443
+msgid ""
+"As of July 2018 you will be able to do 28500 requests per month free of "
+"charge,"
+msgstr ""
+"Från juli 2018 kommer du kunna göra upp till 28500 kartsökningar per månad "
+"gratis,"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1608
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1629
+msgid "at"
+msgstr "kl."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:82
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:453
+msgid "Auto inserted content"
+msgstr "Auto-infogat innehåll"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:203
+msgid "Book now"
+msgstr "Boka plats nu"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:444
+msgid ""
+"but please notice that the pricing plans are quite complex and you should "
+"consult Google's information about the details."
+msgstr ""
+"men observera att prissättningen är ganska komplex och du bör konsultera "
+"Googles information angående alla detaljer."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:60
+msgid "Calendar"
+msgstr "Kalender"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:182
+msgid "Choose behaviour"
+msgstr "Välj beteende"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:460
+msgid ""
+"Choose what should be AUTOMAICALLY inserted into the content of events and "
+"tickets."
+msgstr ""
+"Välj vad som skall infogas AUTOMATISKT i innehållet för evenemang och "
+"biljetter."
+
+#. Author of the plugin
+msgid "Christer Fernstrom"
+msgstr "Christer Fernstrom"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:75
+msgid "Custom event page"
+msgstr "Anpassad sida for evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1141
+msgid "Date"
+msgstr "Datum"
+
+#. Section slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:39
+msgid "Date and Time formats"
+msgstr "Datum- och tidsformat"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:99
+msgid "Date format"
+msgstr "Datumformat"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:285
+msgid "Dates and time"
+msgstr "Datum och tid"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:169
+msgid "Debug"
+msgstr "Avlusning"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:53
+msgid "Debugging"
+msgstr "Felsökning"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:426
+msgid "Default is \"Event\" in singular and \"Events\" in plural."
+msgstr "Standard är \"Event\" i singularis och \"Events\" i pluralis."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:512
+msgid "don't show"
+msgstr "visa inte"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:468
+msgid "Earlier events"
+msgstr "Tidigare evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:250
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:549
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:599
+msgid "Edit ticket"
+msgstr "Ändra biljett"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:571
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1886
+msgid "End"
+msgstr "Slut"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:502
+msgid "End date"
+msgstr "Slutdatum"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:247
+msgid "End date and time of event"
+msgstr "Slutdatum och -tid för evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2013
+msgid "End date is earlier than start date"
+msgstr "Slutdatum är angiven som tidigare än stardatum"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:512
+msgid "End time"
+msgstr "Sluttid"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:715
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:724
+msgid "Event ticket"
+msgstr "Biljett till evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:652
+msgid "Event:"
+msgstr "Evenemang:"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:553
+msgid "Fill in the checkbox above to start sell tickets"
+msgstr "Makera checkboxen ovan för att sälja biljetter"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:671
+msgid "Fill in the slug of the custom event page, or leave blank for default."
+msgstr ""
+"Fyll i slug till anpassad sida för evenemang, eller lämna blankt för standard"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1143
+msgid "First name"
+msgstr "Förnamn"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:230
+msgid "Friday"
+msgstr "Fredag"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:124
+msgid "Full day"
+msgstr "Heldag"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:574
+msgid "generated by the shortcodes in case of problems"
+msgstr "skapat från shortkoden i händelse av problem"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:588
+msgid "Go to the event page"
+msgstr "Gå till evenemangssidan"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:898
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1462
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:368
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:412
+msgid "Goto the event"
+msgstr "Gå till evenemang"
+
+#. Name of the plugin
+msgid "Hello Event"
+msgstr "Hello Event"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:424
+msgid ""
+"Here you can change the name for the event custom type that you see on the "
+"admin pages."
+msgstr ""
+"Här kan du ändra namnet på specialtypen för evenemang (namnet syns endast "
+"på admin-sidorna)."
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:350
+msgid "Hide ticket from shop unless the event is in the future"
+msgstr "Göm biljett i butiken om evenemanget inte ligger i framtiden"
+
+#. Author URI of the plugin
+msgid "https://www.tekomatik.com/about"
+msgstr "https://www.tekomatik.com/about"
+
+#. URI of the plugin
+msgid "https://www.tekomatik.com/plugins/hello-event"
+msgstr "https://www.tekomatik.com/plugins/hello-event"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:453
+msgid ""
+"If no custom page is defined, events will be displayed using the standard "
+"page template of the theme, and in the settings below"
+msgstr ""
+"Om ingen anpassad sida är definierad kommer evenemang att visas med temats "
+"standard sidmall, och i inställningarna nedan"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:522
+msgid "If shown it will be localized into the selected language of the site"
+msgstr "Om veckodag visas är den översatt till valt språk på siten."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:672
+msgid "If the page does not exist the default will be used."
+msgstr "Standardsidan kommer att användas om denna sida inte finns"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:469
+msgid ""
+"if the ticket title should be automatically updated to the event title when "
+"the event is saved."
+msgstr ""
+"om bilettens titel skall uppdateras automatiskt till evenemangets titel när "
+"evenemanget sparas"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:470
+msgid ""
+"if tickets to past events and tickets to events that have been deleted "
+"should be set to hidden to prevent them from being shown in the shop"
+msgstr ""
+"om biljetter till tidigare evenemang eller evenemang som tagits bort skall "
+"sättas till gömda för att inte synas i butiken"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:445
+msgid ""
+"If you choose to use Google Maps, no maps will be displayed on the event "
+"pages until you have obtained the key and registered it here."
+msgstr ""
+"Om du väljer att använda Google Maps kommer inga kartor att visas på "
+"evenemangssidorna förrän du har fått nyckeln och registrerat den här."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:600
+#| msgid "Tu use Bootstrap modals your theme MUST be built with Bootstrap"
+msgid ""
+"If you want to use Bootstrap modals your theme must be built with Bootstrap"
+msgstr ""
+"För att kunna använda Bootstrap modals måste temat vara byggt med Bootstrap"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:499
+msgid "Internally all dates are stored in the ISO-format (YYYY-mm-dd)."
+msgstr "Internt lagras datum enligt ISO-standard (åååå-mm-dd)"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:452
+msgid "It is possible to create a custom page used to display the events."
+msgstr "Det är möjligt att skapa en anpassad sida för att visa evenemangen"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:440
+msgid ""
+"It is possible to use either Google Maps or OpenStreetMap to display the "
+"locations of events."
+msgstr ""
+"Det är möjligt att använda antingen Google Maps eller OpenStreetMap för att "
+"visa evenemangens platser."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:89
+msgid "Keep tickets in sync with events"
+msgstr "Synkronisera biljetter med evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1143
+msgid "Last name"
+msgstr "Efternamn"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:428
+msgid "Leave blank to keep the defaults."
+msgstr "Lämna blankt för att använda standardvärden."
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:312
+msgid "Link from event to ticket"
+msgstr "Länk från evenemang till biljett"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:324
+msgid "Link from ticket to event"
+msgstr "Länk från biljett till evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:293
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:524
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1869
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1891
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:48
+msgid "Location"
+msgstr "Plats"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:299
+msgid "Location map"
+msgstr "Karta"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:260
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:273
+msgid "Location of event"
+msgstr "Plats för evenemang"
+
+#. Description of the plugin
+msgid "Manage events and sell tickets with WooCommerce as easy as Hello World"
+msgstr ""
+"Administrera evenemang och sälj biljetter med WooCommerce lika enkelt som "
+"\"Hello World\""
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:67
+msgid "Maps"
+msgstr "Kartor"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:207
+msgid "Maps API Key"
+msgstr "Google Maps API-nyckel"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:226
+msgid "Monday"
+msgstr "Måndag"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:155
+msgid "Name of event (plural)"
+msgstr "Namn på evenemang (plurails)"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:141
+msgid "Name of event (singular)"
+msgstr "Namn på evenemang (singularis)"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:46
+msgid "Naming events"
+msgstr "Namnge evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:249
+msgid "New"
+msgstr "Nytt"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2009
+msgid "No end date given. The date has been set to today."
+msgstr "Ingen slutdatum är angiven. Dagens datum kommer att användas."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:658
+msgid "No event corresponds to the event id in the URL"
+msgstr "Inget evenemang svarar mot evenemangsidentiteten i URL"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:662
+msgid "No event id in the URL"
+msgstr "Ingen evenemangsidentitet i URL"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1997
+msgid "No event points to the ticket"
+msgstr "Det finns inget evenemang kopplat till biljetten"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:61
+msgid "No location given"
+msgstr "Ingen plats angiven"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2005
+msgid "No start date given. The date has been set to today."
+msgstr "Ingen startdatum är angiven. Dagens datum kommer att användas."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:255
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:256
+msgid "Nono"
+msgstr "Nej"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:569
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:619
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:689
+msgid "off"
+msgstr "av"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:565
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:615
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:685
+msgid "on"
+msgstr "på"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:441
+msgid ""
+"OpenStreetMap is a community-based free service, which is sufficient in most "
+"cases."
+msgstr ""
+"OpenStreet Map är en gratistjänst som skapas och underhålls av gemenskapen "
+"och som är fullt tillräcklig i de flesta fall."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1142
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1157
+msgid "Order"
+msgstr "Beställning"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1144
+msgid "Paid"
+msgstr "Betalt"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1909
+msgid "Participate"
+msgstr "Delta"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:462
+msgid ""
+"Please notice that a link from an event to a ticket will only appear when "
+"the sale of tickets for the event is active."
+msgstr ""
+"Observera att en länk från ett evenemang till biljetten endast är synlig om "
+"biljettförsäljningen är aktiverad."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:601
+msgid ""
+"Please notice that modals may not work properly with older versions of "
+"Bootstrap"
+msgstr ""
+"Observera att modaler kanske inte fungerar korrekt med äldre versioner av "
+"Bootstrap"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:446
+msgid ""
+"Please notice that the maps presented by either of the map services contain "
+"links with credits and contact information to the service provider."
+msgstr ""
+"Observera att kartorna som presenteras innehåller länkar till den kart-"
+"tjänst som används."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1454
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1478
+msgid "Product is orphaned"
+msgstr "Det finns inget evenemang till produkten"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1144
+msgid "Quantity"
+msgstr "Antal"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:573
+msgid "Sales"
+msgstr "Försäljning"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:231
+msgid "Saturday"
+msgstr "Lördag"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:410
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:253
+msgid "Search"
+msgstr "Sök"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:57
+msgid "See in Open Street Map"
+msgstr "Visa med Open STreet Map"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-calendar.php:85
+msgid "See more"
+msgstr "Visa mer"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:195
+msgid "Select map service"
+msgstr "Välj kart-tjänst"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:498
+msgid "Select the dateformat used in datepickers and displays."
+msgstr "Välj vilket datumformat som skall användas "
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:435
+msgid ""
+"Select what should happen when a user clicks on an event in the calendar"
+msgstr "Välj vad som skall hända när man klickar på ett evenemang i kalendern"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:536
+msgid "Sell tickets in the shop"
+msgstr "Sälj biljetter i butiken"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:547
+msgid "Shop link"
+msgstr "Länk till butiken"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1451
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1475
+msgid "Shortcode can only be used for products of the Hello Event category"
+msgstr "Kortkoden kan endast användas för produkter i kategorin Hello Event"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1180
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1373
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1401
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1499
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1513
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1535
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1551
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1566
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1582
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1611
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1632
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1652
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1667
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1682
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1702
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1718
+msgid "Shortcode can only be used when displaying events"
+msgstr "Shortkoden kan endast användas när man visar evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:521
+msgid "Should the weekday name (eg. Monday) be shown in front of the date"
+msgstr "Skall veckodagen (t.ex. Måndag) visas framför datum"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:516
+msgid "show"
+msgstr "visa"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:592
+msgid "Show event summary in a Bootstrap modal"
+msgstr "Visa översikt av evenemanget i en Bootstrap modal"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:596
+msgid "Show event summary in a jQuery UI modal"
+msgstr "Visa översikt av evenemanget i en jQuery UI modal"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:221
+msgid "Slug for custom event page"
+msgstr "Slug till anpassad sida"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:570
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1868
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1881
+msgid "Start"
+msgstr "Början"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:484
+msgid "Start date"
+msgstr "Startdatum"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:234
+msgid "Start date and time of event"
+msgstr "Startdatum och -tid för evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:493
+msgid "Start time"
+msgstr "Starttid"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:225
+msgid "Sunday"
+msgstr "Söndag"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2031
+msgid "The event was saved but there are error(s)"
+msgstr "Evenemanget sparades men det finns fel"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1342
+msgid ""
+"The link from the event does not point to a ticket in Woocommerce. Save the "
+"event again!"
+msgstr ""
+"Länken från evenemanget pekar inte på en biljett i Woocommerce. Prova att "
+"spara evenemanget på nytt."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2029
+msgid "The product was saved but there are error(s)"
+msgstr "Biljetten sparades men det finns fel"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1344
+msgid ""
+"The ticket exists in Woocommerce, and is published, but you need to set its "
+"price"
+msgstr ""
+"Det finns en biljett i Woocommerce som är publicerad, men du måste även "
+"sätta pris"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1343
+msgid "The ticket exists in Woocommerce, but you need to set it as published"
+msgstr ""
+"Det finns en biljett i Woocommerce, men du måste uppdatera dess status till "
+"publicerad"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1183
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1339
+msgid "The Woocommerce plugin is not activated"
+msgstr "Tillägget Woocommerce är inte aktiverat"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:554
+msgid ""
+"then after saving the event a new link will appear to allow you to set the "
+"price and quantity of tickets"
+msgstr ""
+"sedan efter evenemanget sparats kommer en ny länk visas för att sätta pris "
+"och antal biljetter"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2001
+msgid "There is already a ticket for the event in the shop"
+msgstr "Det finns redan en biljett till evenemanget i butiken"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:436
+msgid "There is no event to show"
+msgstr "Det finns inga evenemang att visa"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1341
+msgid "There is no link from the event to a ticket. Save the event again!"
+msgstr ""
+"Det finns ingen länk från evenemanget till någon biljett. Prova att spara "
+"evenemanget på nytt!"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:657
+msgid "this page"
+msgstr "denna sida"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:229
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1138
+msgid "Ticket sales status"
+msgstr "Försäljningsstatus"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:301
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:572
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:227
+msgid "Tickets"
+msgstr "Biljetter"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:552
+msgid "Tickets are not yet available in the shop."
+msgstr "Ännu så länge finns det inte biljetter i butiken."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1370
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1398
+msgid "Tickets not fully configured"
+msgstr "Biletter är inte fullständigt konfigurerade"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:610
+msgid "Tickets sold"
+msgstr "Sålda biljetter"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:727
+msgid "Tickets to Events"
+msgstr "Biljetter till Evenemang"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1360
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1381
+msgid "Tickets to participate are available in our shop"
+msgstr "Biljetter för att delta finns i vår butik"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:127
+msgid "Time format"
+msgstr "Tidsformat"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:655
+msgid "To obtain the API Key and read Google's explanation go to"
+msgstr ""
+"För att (gratis) erhålla en API-nyckel och läsa Google's förklaring gå till "
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:558
+msgid "To sell tickets Woocommerce needs to be installed and actived"
+msgstr "För att kunna sälja biljetter måste Woocommerce vara installerat"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1166
+msgid "Total"
+msgstr "Totalt"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:227
+msgid "Tuesday"
+msgstr "Tisdag"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:76
+msgid "Undefined map services"
+msgstr "Kart-tjänsten är odefinierad"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:2017
+msgid "Unknown error"
+msgstr "Okänt fel"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-list-events.php:469
+msgid "Upcoming events"
+msgstr "Kommande evenemang"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:338
+msgid "Update the ticket title when the event title is changed"
+msgstr "Uppdatera biljettens titel när evenemangets titel ändras"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:251
+msgid "View"
+msgstr "Visa"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:228
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#. Field slug
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:113
+msgid "Weekday"
+msgstr "Veckodag"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:573
+msgid "When switched on admins and editors will see debug information"
+msgstr ""
+"När detta val är aktiverat kommer admins och editors att se "
+"avlusningsinformation"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:454
+msgid ""
+"When using a custom event page you must use shortcodes to show the event "
+"information."
+msgstr ""
+"När anpassad sida används för att visa evenemang måste shortcodes användas "
+"för att visa informationen."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:442
+msgid ""
+"With Google Maps comes many additional features (street view, driving "
+"directions, ...), but in order to use Google maps you need to obtain a "
+"Google Maps API Key."
+msgstr ""
+"Med Google Maps kommer ytterligare funktioner (street view, köranvisningar,.."
+".), men för att kunna använda Google Maps måste du erhålla en Google Maps "
+"API nyckel och registrera den här."
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-settings.php:453
+msgid "you can decide what information should be automatically inserted"
+msgstr "kan du bestämma vilken information som skall infogas automatiskt"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/includes/hello-event-map.php:96
+msgid ""
+"You need to register your Google Maps API Key before the map can be shown"
+msgstr "Du måste lägga in din Google Maps API-nyckel för att kunna se kartor"
+
+#: ../../../../../../Programs/PLUGINS/hello-event/hello_event.php:1340
+msgid "You need to set the check box to sell tickets in the event!"
+msgstr "Du måste aktivera valet i checkboxen för att sälja biljetter !"
